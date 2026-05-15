@@ -2,9 +2,7 @@
 
 SkewNPad, 4 x 5 numpad / macropad with QMK firmware
 
-IMG
-[skewnpad](replace me)
-TODO le prendre en photo
+![skewnpad](images/skewnpad.jpg)
 
 ## Electric schema
 
@@ -49,6 +47,6 @@ Go to [VIA app](https://www.usevia.app/)
 - `Load Draft Definition`
 - Load [SkewNPad VIA file](files/VIA/Skewnpad%20VIA.json)
 - Plug the macropad and go to `Configure` tab to associate it
-- Use [SkewNPad layout file](files/VIA/Skewnpad%20layout.json) ## TODO mettre le nouveau
+- Use [SkewNPad layout file](files/VIA/Skewnpad%20layout.json)
 
-TODO screenshot de VIA avec les deux layouts principaux
+![VIA Layout 1](images/VIA_layout_1.jpg)
