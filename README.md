@@ -25,6 +25,8 @@ Now, you need to solder all parts :
 - top_case x 1
 - snap_clip x 4
 
+3D prints files are available [here](files/3D/) (PCB fabrication zip file)
+
 ## QMK firmware (Windows version)
 - Install MSYS2 (Mingw64)
 - Set the environment variable PYTHONUTF8 to "1"
